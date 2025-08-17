@@ -14,12 +14,13 @@ It explores customer demographics, purchasing behavior, and sales trends.
 - Improved customer experience by identifying potential customers across states, occupations, gender, and age groups.  
 - Improved sales by identifying top product categories and products to optimize inventory planning.
 
+
 # Diwali Sales Analysis
 
 <p align="center">
-  <img src="assets/WhatsApp%20Image%202025-08-17%20at%207.59.19%20PM.jpeg" width="350"/>
-  <img src="assets/WhatsApp%20Image%202025-08-17%20at%208.00.08%20PM.jpeg" width="320"/>
-  <img src="assets/WhatsApp%20Image%202025-08-17%20at%208.00.46%20PM.jpeg" width="350"/>
+  <img src="assets/WhatsApp%20Image%202025-08-17%20at%207.59.19%20PM.jpeg" width="320"/>
+  <img src="assets/WhatsApp%20Image%202025-08-17%20at%208.00.08%20PM.jpeg" width="300"/>
+  <img src="assets/WhatsApp%20Image%202025-08-17%20at%208.00.46%20PM.jpeg" width="330"/>
 </p>
 
 
