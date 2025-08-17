@@ -14,10 +14,12 @@ It explores customer demographics, purchasing behavior, and sales trends.
 - Improved customer experience by identifying potential customers across states, occupations, gender, and age groups.  
 - Improved sales by identifying top product categories and products to optimize inventory planning.
 
-  ## Project Learnings
-<img src="assets/project_learnings.png" alt="Project Learnings" width="600"/>
+# Diwali Sales Analysis
 
-<img src="assetsWhatsApp Image 2025-08-17 at 8.00.08 PM.png" alt="Project Learnings" width="600"/>
+<p align="center">
+  <img src="assets/WhatsApp%20Image%202025-08-17%20at%207.59.19%20PM.jpeg" width="350"/>
+  <img src="assets/WhatsApp%20Image%202025-08-17%20at%208.00.08%20PM.jpeg" width="320"/>
+  <img src="assets/WhatsApp%20Image%202025-08-17%20at%208.00.46%20PM.jpeg" width="350"/>
+</p>
 
-<img src="assets/WhatsApp Image 2025-08-17 at 7.59.19 PM.png" alt="Project Learnings" width="600"/>
 
